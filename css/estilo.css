@@ -63,12 +63,20 @@ a {
     text-decoration: none;
 }
 
+a:link, a:visited {
+    color: #f7b600;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 #area-cabecalho a:link, #area-cabecalho a:visited {
     color: #FFF;
     padding: 8px 12px;
 }
 
-a:hover {
+#area-cabecalho a:hover {
     color: #f7b600;
     background: #FFF;
 }

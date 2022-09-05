@@ -29,10 +29,6 @@ body {
     padding: 15px;
 }
 
-#area-lateral {
-    background:  orange;
-}
-
 #area-postagens {
     width: 660px;
     float: left;
@@ -47,6 +43,12 @@ body {
     padding: 20px;
     margin-bottom: 20px;
     background: white;
+}
+
+.conteudo-lateral {
+    background: white;
+    padding: 10px;
+    margin-bottom: 20px;
 }
 
 #rodape {
